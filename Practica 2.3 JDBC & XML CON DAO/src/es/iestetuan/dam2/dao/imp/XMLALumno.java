@@ -28,7 +28,7 @@ import es.iestetuan.dam2.dao.vo.Alumno;
 import es.iestetuan.dam2.GestorConfiguracion;
 
 
-public class ImpXML implements IAlumno{
+public class XMLALumno implements IAlumno{
 	
 	public void consultarAlumno(int nia) {
 		
@@ -93,7 +93,7 @@ public class ImpXML implements IAlumno{
 	}
 	public List<Alumno> consultarAlumnos(){
 		
-		ArrayList<Alumno> listaAlumnosDevolver = new ArrayList<Alumno>();
+		List<Alumno> listaAlumnosDevolver = new ArrayList<Alumno>();
 		
 		try {
 				

@@ -11,6 +11,5 @@ public interface IAlumno {
 	public void bajaAlumno(int id);
 	public void consultarAlumno(int id_alumno);
 	public List<Alumno> consultarAlumnos();
-	public void guardarAlumnos(List<Alumno> lista);
 
 }

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alumnos>
+	<alumno nia="21">
+		<nie />
+		<nombre> Unai</nombre>
+		<apellido1> Antón</apellido1>
+		<apellido2> Ríos</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="32">
+		<nie />
+		<nombre> Borja</nombre>
+		<apellido1> Argibay</apellido1>
+		<apellido2> Vázquez</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="53">
+		<nie />
+		<nombre> Guillermo</nombre>
+		<apellido1> Blanco</apellido1>
+		<apellido2> Andrés</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="64">
+		<nie />
+		<nombre> Piotr</nombre>
+		<apellido1> Blaszczyk</apellido1>
+		<apellido2>
+		</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="58">
+		<nie />
+		<nombre> Lucas</nombre>
+		<apellido1> Calvo</apellido1>
+		<apellido2> Martín</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="216">
+		<nie />
+		<nombre> Adrián</nombre>
+		<apellido1> Castro</apellido1>
+		<apellido2> Villacañas</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="237">
+		<nie />
+		<nombre> Felipe</nombre>
+		<apellido1> Cortes</apellido1>
+		<apellido2> Montoya</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="58">
+		<nie />
+		<nombre> Fernando Luis</nombre>
+		<apellido1> Delgado</apellido1>
+		<apellido2> Corbacho</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="921">
+		<nie />
+		<nombre> Ramón</nombre>
+		<apellido1> Díaz</apellido1>
+		<apellido2> Cuenca</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="101">
+		<nie />
+		<nombre> Nuria</nombre>
+		<apellido1> Garzón</apellido1>
+		<apellido2> García</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="116">
+		<nie />
+		<nombre> David</nombre>
+		<apellido1> Gómez</apellido1>
+		<apellido2> Suárez</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="132">
+		<nie />
+		<nombre> David</nombre>
+		<apellido1> Hernández</apellido1>
+		<apellido2> Sánchez</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="513">
+		<nie />
+		<nombre> Carlos Manuel</nombre>
+		<apellido1> Mahia</apellido1>
+		<apellido2> Rachello</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="614">
+		<nie />
+		<nombre> Alejandro</nombre>
+		<apellido1> Marín</apellido1>
+		<apellido2> Rivero</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="155">
+		<nie />
+		<nombre> Raúl</nombre>
+		<apellido1> Moreno</apellido1>
+		<apellido2> Martínez</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="156">
+		<nie />
+		<nombre> Santiago</nombre>
+		<apellido1> Pinzón</apellido1>
+		<apellido2> Maldonado</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="271">
+		<nie />
+		<nombre> Juán José</nombre>
+		<apellido1> Rollán</apellido1>
+		<apellido2> Palomo</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="818">
+		<nie />
+		<nombre> Alberto</nombre>
+		<apellido1> Sánchez</apellido1>
+		<apellido2> Catela</apellido2>
+		<email />
+	</alumno>
+	<alumno nia="919">
+		<nie />
+		<nombre> David</nombre>
+		<apellido1> Villa</apellido1>
+		<apellido2> Jiménez</apellido2>
+		<email />
+	</alumno>
+</alumnos>

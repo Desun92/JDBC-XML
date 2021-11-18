@@ -11,6 +11,7 @@ static Properties propiedades;
 	public static Properties cargarConfiguracion() throws Exception{
 		
 		if(propiedades==null) {
+			propiedades = new Properties();
 			InputStream in = new FileInputStream("archivos/confi.properties");
 			propiedades.load(in);
 		}

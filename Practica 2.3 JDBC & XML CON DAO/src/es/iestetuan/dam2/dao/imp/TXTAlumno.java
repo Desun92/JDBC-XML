@@ -9,7 +9,7 @@ import es.iestetuan.dam2.GestorConfiguracion;
 import es.iestetuan.dam2.dao.IAlumno;
 import es.iestetuan.dam2.dao.vo.Alumno;
 
-public class ImpTXT implements IAlumno{
+public class TXTAlumno implements IAlumno{
 	
 	public void altaAlumno(Alumno alumno) {
 		
